@@ -1,5 +1,9 @@
 # High_resolution_matting_PaddlePaddle
 
+The PaddlePaddle re-implementation of Real-Time High-Resolution Background Matting.
+
+Team: 光焰合体技
+
 
 Paper Name: Real-Time High-Resolution Background Matting
 
