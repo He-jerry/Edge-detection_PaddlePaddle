@@ -3,6 +3,8 @@
 
 Paper Name: Real-Time High-Resolution Background Matting
 
+Target: a real-time, high-resolution background replacement technique
+
 Paper Official Code: https://github.com/PeterL1n/BackgroundMattingV2
 
 Dataset: https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets
