@@ -16,7 +16,7 @@ Dataset: https://grail.cs.washington.edu/projects/background-matting-v2/#/datase
 Download address: https://drive.google.com/file/d/1KpHKYW986Dax9-ZIM7I-HyBoWVcLPuaQ/view
 
 
-#Stage1: Run the official Code
+# Stage1: Run the official Code
 
 I use the Colab from Google to run the code:
 
