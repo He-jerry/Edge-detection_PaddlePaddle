@@ -41,3 +41,6 @@ https://drive.google.com/file/d/1KpHKYW986Dax9-ZIM7I-HyBoWVcLPuaQ/view?usp=shari
 Network Transfer is finished.
 
 Total Training Data Pairs: 237989
+
+Tranferring the OPs in Pytorch to Native C++ implementations.
+
